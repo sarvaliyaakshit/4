@@ -526,7 +526,7 @@ svg {fill: currentColor;height: auto;max-width: 66vmin;transform-origin: center;
 .hero .hero-inner .hero-inner-img{position: relative;border-radius: 24px;right: 0px;margin: 0 auto;width: 50%;}
 .hero .hero-inner .hero-inner-img img{height: 400px;margin-top: 30px;}
 .hero .hero-inner .hero-inner-star-img{position: absolute; left: 9px; bottom: 22vh;}
-.hero .hero-inner .hero-inner-star-img img{height: 30px;}
+.hero .hero-inner .hero-inner-star-img img{display: none;}
 .hero .hero-inner .hero-inner-text h1{font-size: 64px;line-height: 74px;}
 .hero .hero-inner .hero-inner-text span{font-size: 64px;line-height:74px;}
 .hero .hero-inner .hero-inner-text p{margin-top: 20px;font-size: 14px;line-height: 20px;}
@@ -538,7 +538,7 @@ svg {fill: currentColor;height: auto;max-width: 66vmin;transform-origin: center;
 .hero .hero-inner .hero-inner-text .hero-inner-counter .hero-inner-counter-1{border-right: 1px solid #D6EF0E; padding: 0 20px 0 0;}
 .hero .hero-inner .hero-inner-text .hero-inner-counter .hero-inner-counter-2{border-right: 1px solid #D6EF0E; padding: 0 20px 0 20px;}
 .hero .hero-inner .hero-inner-text .hero-inner-counter .hero-inner-counter-3{padding: 0 20px;}
-svg {fill: currentColor;height: auto;max-width: 66vmin;transform-origin: center;width: 33%;color: #fff;position: absolute;bottom:20vh;right:37vw;}
+svg {display: none; fill: currentColor;height: auto;max-width: 66vmin;transform-origin: center;width: 33%;color: #fff;position: absolute;bottom:20vh;right:37vw;}
 /* ---- Card --- */
 .hero-inner-card { width: 254px; padding: 10px; border-radius: 16px;border-top: 1px solid #D6EF0E;box-shadow: 0px 9px 50px 0px rgba(23, 36, 65, 0.04);top: -134px; left: 145px; position:relative;background: #131E3A;}
 .hero-inner-img .hero-inner-card p{color: #D6EF0E;}
